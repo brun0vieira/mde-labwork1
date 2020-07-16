@@ -1,7 +1,3 @@
-/* 
- * Requisito 1
- */ 
-
 -- Clientes
 -- Create
 insert into clientes(id_cliente, nome, contacto, idade) values(sequence_clientes.nextval, 'bruno vieira', 'bar.vieira@campus.fct.unl.pt', 22);
